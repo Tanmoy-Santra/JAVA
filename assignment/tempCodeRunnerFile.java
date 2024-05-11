@@ -1,0 +1,1 @@
+ T2.sec = T.sec + sec;
